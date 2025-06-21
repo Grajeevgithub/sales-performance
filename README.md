@@ -44,7 +44,7 @@ To analyze and visualize sales data from a retail superstore to identify:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Grajeevgithub/sales-performance/blob/main/sales%20performance/images/Category%20Profit%20%E2%80%93%20Pie%20or%20Bar.png)
+![Category Profit Chart](https://raw.githubusercontent.com/Grajeevgithub/sales-performance/main/sales%20performance/images/Category%20Profit%20%E2%80%93%20Pie%20or%20Bar.png)
 
 > Interactive dashboard built in Power BI with slicers for Region, Category, Segment, and Date.
 
